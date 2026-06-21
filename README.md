@@ -11,15 +11,15 @@ laboratory procedures. Projects range from basic cell culture and stem cell rese
 -Events & Fundraising: Because it operates as a grassroots initiative, BioOlympia regularly partners with the local Pacific
 Northwest arts and music scene (including bands like [Electric Sweats](https://electricsweats.net)) to host benefit shows, swap 
 meets, and lab workshops.
- 
---- 
 
-**Support:** The project relies heavily on community backing and crowdfunding to maintain operations and acquire lab supplies. You 
-can view their ongoing fundraising efforts via their [GoFundMe Campaign](https://www.gofundme.com/f/support-bio-olympias-stem-cell-research). 
+-Networking: Because the lab operates on a do-it-yourself (DIY) and open-science philosophy, BioOlympia welcomes engagement from curious learners and fellow biohackers. Feel free to reach out!
 
-**Network:** Because the lab operates on a do-it-yourself (DIY) and open-science philosophy, BioOlympia welcomes engagement from curious learners and fellow biohackers. Feel free to reach out!
 For wider discussions on the DIY biology movement, you can connect with similar grassroots scientists via the Google Groups 
 DIYbio Forum.
 
+--- 
+
+The project relies heavily on community backing and crowdfunding to maintain operations and acquire lab supplies. You 
+can view their ongoing fundraising efforts via their [GoFundMe Campaign](https://www.gofundme.com/f/support-bio-olympias-stem-cell-research). 
 
 **Meet the Team:** The lab's operations are run by Matthew Woslum and Zee Zinck. To track their latest experiments, lab upgrades, and community events, follow [BioOlympia on Instagram](https://www.gofundme.com/f/support-bio-olympias-stem-cell-research).
